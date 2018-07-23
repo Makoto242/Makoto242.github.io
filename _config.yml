@@ -23,8 +23,8 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: M242's blog
-description: "A simple blog"
+title: Blog de M242
+description: "un simple blog"
 keywords: 'jekyll,theme,gem-based,blog'
 author: 
   name: M242
@@ -33,11 +33,11 @@ author:
   email: oliviermoreau256@gmail.com
   social_links:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/Makoto242
     - name: stackoverflow
       url:
 home:
-  section1: <h1>M242's blog</h1>
+  section1: <h1>Blog de M242</h1>
   section2: <h2>un simple blog</h2>
   
 blog:
